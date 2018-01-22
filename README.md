@@ -1,2 +1,3 @@
 # Hangman
-My implementation of a Hangman game using ruby http://www.theodinproject.com/ruby-programming/file-i-o-and-serialization
+My implementation of a Hangman game using ruby
+https://frozen-earth-19294.herokuapp.com/
